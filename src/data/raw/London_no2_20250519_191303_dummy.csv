@@ -1,0 +1,11 @@
+location,parameter,value,unit,sourceName,coordinates.latitude,coordinates.longitude,date.utc,date.local
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664576,2025-05-19T19:13:03.664581
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664587,2025-05-19T19:13:03.664589
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664593,2025-05-19T19:13:03.664595
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664598,2025-05-19T19:13:03.664600
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664604,2025-05-19T19:13:03.664605
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664609,2025-05-19T19:13:03.664611
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664614,2025-05-19T19:13:03.664616
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664620,2025-05-19T19:13:03.664621
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664625,2025-05-19T19:13:03.664626
+London Downtown,no2,25.0,ppb,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.664630,2025-05-19T19:13:03.664632

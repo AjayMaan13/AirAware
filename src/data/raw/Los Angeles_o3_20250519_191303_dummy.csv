@@ -1,0 +1,11 @@
+location,parameter,value,unit,sourceName,coordinates.latitude,coordinates.longitude,date.utc,date.local
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648920,2025-05-19T19:13:03.648930
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648939,2025-05-19T19:13:03.648941
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648946,2025-05-19T19:13:03.648948
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648953,2025-05-19T19:13:03.648955
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648959,2025-05-19T19:13:03.648961
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648966,2025-05-19T19:13:03.648968
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648972,2025-05-19T19:13:03.648974
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648979,2025-05-19T19:13:03.648981
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648986,2025-05-19T19:13:03.648987
+Los Angeles Downtown,o3,45.0,ppb,Dummy Data Generator,34.05,-118.24,2025-05-19T23:13:03.648992,2025-05-19T19:13:03.648994

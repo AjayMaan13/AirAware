@@ -1,0 +1,11 @@
+location,parameter,value,unit,sourceName,coordinates.latitude,coordinates.longitude,date.utc,date.local
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660634,2025-05-19T19:13:03.660637
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660642,2025-05-19T19:13:03.660644
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660648,2025-05-19T19:13:03.660649
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660653,2025-05-19T19:13:03.660655
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660658,2025-05-19T19:13:03.660660
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660663,2025-05-19T19:13:03.660665
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660669,2025-05-19T19:13:03.660670
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660674,2025-05-19T19:13:03.660675
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660679,2025-05-19T19:13:03.660680
+London Downtown,pm25,35.0,µg/m³,Dummy Data Generator,51.51,-0.13,2025-05-19T23:13:03.660684,2025-05-19T19:13:03.660685
