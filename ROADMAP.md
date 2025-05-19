@@ -111,15 +111,6 @@ A streamlined ETL pipeline that extracts air quality data, transforms it into he
 - Environment setup
 - Documentation
 
-## Shortcuts to Save Time
-
-1. **Focus on 2-3 cities only** - Don't try to cover too many locations
-2. **Use existing AQI calculation formulas** - Don't recreate the math
-3. **Leverage simple CSV storage** for intermediate steps rather than complex data structures
-4. **Use Streamlit for dashboard** instead of Flask (much faster to implement)
-5. **Start with static visualizations** before attempting interactive ones
-6. **Use pandas for most transformations** rather than writing custom functions
-
 ## Minimum Viable Project
 
 If extremely short on time, focus on these core components:
