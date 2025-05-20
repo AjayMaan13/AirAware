@@ -1,5 +1,18 @@
 # AirAware: Air Quality Monitoring & Alert System
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14.0-blue)
+![Pandas](https://img.shields.io/badge/pandas-2.0.3-blue)
+![NumPy](https://img.shields.io/badge/numpy-1.24.3-blue)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3.7.2-green)
+![Seaborn](https://img.shields.io/badge/seaborn-0.12.2-green)
+![Schedule](https://img.shields.io/badge/schedule-1.2.0-yellow)
+![Requests](https://img.shields.io/badge/requests-2.31.0-orange)
+![API](https://img.shields.io/badge/API-Integration-orange)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-red)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 ## Project Overview
 
 AirAware is a comprehensive air quality monitoring system that extracts data from air quality APIs, transforms raw measurements into health metrics, stores data in PostgreSQL, and provides visualizations with real-time alerts for dangerous conditions.
