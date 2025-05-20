@@ -1,0 +1,11 @@
+location,parameter,value,unit,sourceName,coordinates.latitude,coordinates.longitude,date.utc,date.local
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496452,2025-05-19T22:16:15.496457
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496463,2025-05-19T22:16:15.496465
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496468,2025-05-19T22:16:15.496469
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496472,2025-05-19T22:16:15.496473
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496476,2025-05-19T22:16:15.496477
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496481,2025-05-19T22:16:15.496482
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496485,2025-05-19T22:16:15.496486
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496489,2025-05-19T22:16:15.496490
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496493,2025-05-19T22:16:15.496494
+New York Downtown,pm25,35.0,µg/m³,Dummy Data Generator,40.71,-74.01,2025-05-20T02:16:15.496497,2025-05-19T22:16:15.496498
