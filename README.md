@@ -95,10 +95,19 @@ def enrich_location_data(latitude, longitude):
 
 ## 📊 Sample Visualizations
 
-- **AQI Heat Maps** - Geographic pollution distribution
-- **Time Series Analysis** - Pollution trends over time
-- **Comparative Charts** - Multi-city air quality comparison
-- **Health Risk Dashboard** - Real-time safety metrics
+### AQI Heat Map - Geographic Distribution
+![AQI Heat Map](./images/aqi_heatmap.png)
+
+### AQI Distribution Analysis
+![AQI Distribution](./images/aqi_distribution.png)
+
+### Time Series Analysis - Pollutant Trends
+![PM2.5 Time Series](./images/pm25_time_series.png)
+![NO2 Time Series](./images/no2_time_series.png)
+![O3 Time Series](./images/o3_time_series.png)
+
+### Multi-City Comparison
+![AQI Comparison](./images/aqi_comparison.png)
 
 ## 🧪 Testing & Deployment
 
